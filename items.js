@@ -13,7 +13,7 @@ const items =[
     },
     {
         id : 3,
-        name :'Vivo Y!',
+        name :'Vivo Y1',
         price : 20000,
         quantity : 30
     },
